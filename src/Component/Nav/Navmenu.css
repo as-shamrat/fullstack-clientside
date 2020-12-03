@@ -1,0 +1,40 @@
+.nav-bg {
+  background: url("../../th.jpg");
+  max-width: 100%;
+  height: auto;
+  min-height: 400px;
+  max-height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.navLogo {
+  max-width: 24%;
+}
+.nav-text {
+  font-weight: bold;
+  color: rgb(10, 0, 0);
+}
+.nav-btn {
+  padding: 1px 35px;
+  font-size: 13px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  margin: 0px 10px;
+}
+.nav-btn-1 {
+  background: blue;
+}
+.nav-btn-2 {
+  background: rgb(73, 71, 71);
+}
+.nav-header {
+  margin: 50px auto;
+  text-align: center;
+  font-weight: bolder;
+}
+.nav-search {
+  padding: 20px 300px;
+}
